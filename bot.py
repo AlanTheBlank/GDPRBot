@@ -5,7 +5,7 @@ import datetime
 
 client = commands.Bot(max_messages=1000000, status=discord.Status.offline, command_prefix="\\")
 
-token = "NTg0MDUyNDA4Njc0NjgwODcz.XSw_iA.g9WU8I1p8l7pnm7AuFzy8vxyaU8"
+token = 
 
 @client.command()
 async def test(ctx):
